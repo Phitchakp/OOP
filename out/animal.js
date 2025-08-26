@@ -46,3 +46,4 @@ const fish = new Fish("fish", 2, 12);
 const hawk = new Hawk("hawk", 3, 50);
 rabbit.run();
 fish.swim();
+hawk.fly();
