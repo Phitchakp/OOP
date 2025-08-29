@@ -83,7 +83,7 @@ class House {
 const alice = new House('Alice', 500);
 alice.turnOnSystems();
 
-// const bob = new House("Bob");
-// bob.shutdown();
+const bob = new House("Bob");
+bob.shutdown();
 
 

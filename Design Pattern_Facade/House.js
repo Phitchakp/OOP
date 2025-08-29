@@ -80,5 +80,5 @@ var House = /** @class */ (function () {
 // Client code
 var alice = new House('Alice', 500);
 alice.turnOnSystems();
-// const bob = new House("Bob");
-// bob.shutdown();
+var bob = new House("Bob");
+bob.shutdown();
